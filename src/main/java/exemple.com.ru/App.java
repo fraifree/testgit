@@ -7,5 +7,5 @@ public class App {
     }
 }
 public static void print(){
-    System.out.println("Magazine is open on 2 hours");
+    System.out.println("Magazine is open on 4 days");
 }
